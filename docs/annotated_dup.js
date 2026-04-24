@@ -1,0 +1,118 @@
+var annotated_dup =
+[
+    [ "bench", "namespacebench.html", [
+      [ "Harness", "classbench_1_1Harness.html", "classbench_1_1Harness" ],
+      [ "Stats", "structbench_1_1Stats.html", "structbench_1_1Stats" ],
+      [ "Timer", "structbench_1_1Timer.html", "structbench_1_1Timer" ]
+    ] ],
+    [ "secp256k1", "namespacesecp256k1.html", [
+      [ "coins", "namespacesecp256k1_1_1coins.html", [
+        [ "wallet", "namespacesecp256k1_1_1coins_1_1wallet.html", [
+          [ "MessageSignature", "structsecp256k1_1_1coins_1_1wallet_1_1MessageSignature.html", "structsecp256k1_1_1coins_1_1wallet_1_1MessageSignature" ],
+          [ "WalletKey", "structsecp256k1_1_1coins_1_1wallet_1_1WalletKey.html", "structsecp256k1_1_1coins_1_1wallet_1_1WalletKey" ]
+        ] ],
+        [ "BitcoinSigDecodeResult", "structsecp256k1_1_1coins_1_1BitcoinSigDecodeResult.html", "structsecp256k1_1_1coins_1_1BitcoinSigDecodeResult" ],
+        [ "CoinFeatures", "structsecp256k1_1_1coins_1_1CoinFeatures.html", "structsecp256k1_1_1coins_1_1CoinFeatures" ],
+        [ "CoinKeyPair", "structsecp256k1_1_1coins_1_1CoinKeyPair.html", "structsecp256k1_1_1coins_1_1CoinKeyPair" ],
+        [ "CoinParams", "structsecp256k1_1_1coins_1_1CoinParams.html", "structsecp256k1_1_1coins_1_1CoinParams" ],
+        [ "EthSignature", "structsecp256k1_1_1coins_1_1EthSignature.html", "structsecp256k1_1_1coins_1_1EthSignature" ],
+        [ "Keccak256State", "structsecp256k1_1_1coins_1_1Keccak256State.html", "structsecp256k1_1_1coins_1_1Keccak256State" ]
+      ] ],
+      [ "ct", "namespacesecp256k1_1_1ct.html", [
+        [ "CTAffinePoint", "structsecp256k1_1_1ct_1_1CTAffinePoint.html", "structsecp256k1_1_1ct_1_1CTAffinePoint" ],
+        [ "CTGLVDecomposition", "structsecp256k1_1_1ct_1_1CTGLVDecomposition.html", "structsecp256k1_1_1ct_1_1CTGLVDecomposition" ],
+        [ "CTJacobianPoint", "structsecp256k1_1_1ct_1_1CTJacobianPoint.html", "structsecp256k1_1_1ct_1_1CTJacobianPoint" ]
+      ] ],
+      [ "fast", "namespacesecp256k1_1_1fast.html", [
+        [ "debug", "namespacesecp256k1_1_1fast_1_1debug.html", [
+          [ "DebugCounters", "structsecp256k1_1_1fast_1_1debug_1_1DebugCounters.html", "structsecp256k1_1_1fast_1_1debug_1_1DebugCounters" ]
+        ] ],
+        [ "AffinePointCompact", "structsecp256k1_1_1fast_1_1AffinePointCompact.html", "structsecp256k1_1_1fast_1_1AffinePointCompact" ],
+        [ "CombAffinePoint", "structsecp256k1_1_1fast_1_1CombAffinePoint.html", "structsecp256k1_1_1fast_1_1CombAffinePoint" ],
+        [ "CombGenContext", "classsecp256k1_1_1fast_1_1CombGenContext.html", "classsecp256k1_1_1fast_1_1CombGenContext" ],
+        [ "FieldElement", "classsecp256k1_1_1fast_1_1FieldElement.html", "classsecp256k1_1_1fast_1_1FieldElement" ],
+        [ "FieldElement26", "structsecp256k1_1_1fast_1_1FieldElement26.html", "structsecp256k1_1_1fast_1_1FieldElement26" ],
+        [ "FieldElement52", "structsecp256k1_1_1fast_1_1FieldElement52.html", "structsecp256k1_1_1fast_1_1FieldElement52" ],
+        [ "FixedBaseConfig", "structsecp256k1_1_1fast_1_1FixedBaseConfig.html", "structsecp256k1_1_1fast_1_1FixedBaseConfig" ],
+        [ "GLVDecomposition", "structsecp256k1_1_1fast_1_1GLVDecomposition.html", "structsecp256k1_1_1fast_1_1GLVDecomposition" ],
+        [ "KPlan", "structsecp256k1_1_1fast_1_1KPlan.html", "structsecp256k1_1_1fast_1_1KPlan" ],
+        [ "MidFieldElement", "structsecp256k1_1_1fast_1_1MidFieldElement.html", "structsecp256k1_1_1fast_1_1MidFieldElement" ],
+        [ "Point", "classsecp256k1_1_1fast_1_1Point.html", "classsecp256k1_1_1fast_1_1Point" ],
+        [ "PrecomputedScalar", "structsecp256k1_1_1fast_1_1PrecomputedScalar.html", "structsecp256k1_1_1fast_1_1PrecomputedScalar" ],
+        [ "PrecomputedScalarOptimized", "structsecp256k1_1_1fast_1_1PrecomputedScalarOptimized.html", "structsecp256k1_1_1fast_1_1PrecomputedScalarOptimized" ],
+        [ "Scalar", "classsecp256k1_1_1fast_1_1Scalar.html", "classsecp256k1_1_1fast_1_1Scalar" ],
+        [ "ScalarDecomposition", "structsecp256k1_1_1fast_1_1ScalarDecomposition.html", "structsecp256k1_1_1fast_1_1ScalarDecomposition" ],
+        [ "SelftestCaseResult", "structsecp256k1_1_1fast_1_1SelftestCaseResult.html", "structsecp256k1_1_1fast_1_1SelftestCaseResult" ],
+        [ "SelftestReport", "structsecp256k1_1_1fast_1_1SelftestReport.html", "structsecp256k1_1_1fast_1_1SelftestReport" ]
+      ] ],
+      [ "test", "namespacesecp256k1_1_1test.html", [
+        [ "TestCounters", "structsecp256k1_1_1test_1_1TestCounters.html", "structsecp256k1_1_1test_1_1TestCounters" ]
+      ] ],
+      [ "zk", "namespacesecp256k1_1_1zk.html", [
+        [ "DLEQProof", "structsecp256k1_1_1zk_1_1DLEQProof.html", "structsecp256k1_1_1zk_1_1DLEQProof" ],
+        [ "EcdsaSnarkWitness", "structsecp256k1_1_1zk_1_1EcdsaSnarkWitness.html", "structsecp256k1_1_1zk_1_1EcdsaSnarkWitness" ],
+        [ "ForeignFieldLimbs", "structsecp256k1_1_1zk_1_1ForeignFieldLimbs.html", "structsecp256k1_1_1zk_1_1ForeignFieldLimbs" ],
+        [ "GeneratorVectors", "structsecp256k1_1_1zk_1_1GeneratorVectors.html", "structsecp256k1_1_1zk_1_1GeneratorVectors" ],
+        [ "KnowledgeProof", "structsecp256k1_1_1zk_1_1KnowledgeProof.html", "structsecp256k1_1_1zk_1_1KnowledgeProof" ],
+        [ "RangeProof", "structsecp256k1_1_1zk_1_1RangeProof.html", "structsecp256k1_1_1zk_1_1RangeProof" ],
+        [ "SchnorrSnarkWitness", "structsecp256k1_1_1zk_1_1SchnorrSnarkWitness.html", "structsecp256k1_1_1zk_1_1SchnorrSnarkWitness" ]
+      ] ],
+      [ "AffinePointData", "structsecp256k1_1_1AffinePointData.html", "structsecp256k1_1_1AffinePointData" ],
+      [ "Bech32DecodeResult", "structsecp256k1_1_1Bech32DecodeResult.html", "structsecp256k1_1_1Bech32DecodeResult" ],
+      [ "Bip143Preimage", "structsecp256k1_1_1Bip143Preimage.html", "structsecp256k1_1_1Bip143Preimage" ],
+      [ "Bip324Cipher", "classsecp256k1_1_1Bip324Cipher.html", "classsecp256k1_1_1Bip324Cipher" ],
+      [ "Bip324Session", "classsecp256k1_1_1Bip324Session.html", "classsecp256k1_1_1Bip324Session" ],
+      [ "Bip39Entropy", "structsecp256k1_1_1Bip39Entropy.html", "structsecp256k1_1_1Bip39Entropy" ],
+      [ "CurveContext", "structsecp256k1_1_1CurveContext.html", "structsecp256k1_1_1CurveContext" ],
+      [ "ECDSAAdaptorSig", "structsecp256k1_1_1ECDSAAdaptorSig.html", "structsecp256k1_1_1ECDSAAdaptorSig" ],
+      [ "ECDSABatchEntry", "structsecp256k1_1_1ECDSABatchEntry.html", "structsecp256k1_1_1ECDSABatchEntry" ],
+      [ "ECDSASignature", "structsecp256k1_1_1ECDSASignature.html", "structsecp256k1_1_1ECDSASignature" ],
+      [ "ExtendedKey", "structsecp256k1_1_1ExtendedKey.html", "structsecp256k1_1_1ExtendedKey" ],
+      [ "FieldElementData", "structsecp256k1_1_1FieldElementData.html", "structsecp256k1_1_1FieldElementData" ],
+      [ "FrostCommitment", "structsecp256k1_1_1FrostCommitment.html", "structsecp256k1_1_1FrostCommitment" ],
+      [ "FrostKeyPackage", "structsecp256k1_1_1FrostKeyPackage.html", "structsecp256k1_1_1FrostKeyPackage" ],
+      [ "FrostNonce", "structsecp256k1_1_1FrostNonce.html", "structsecp256k1_1_1FrostNonce" ],
+      [ "FrostNonceCommitment", "structsecp256k1_1_1FrostNonceCommitment.html", "structsecp256k1_1_1FrostNonceCommitment" ],
+      [ "FrostPartialSig", "structsecp256k1_1_1FrostPartialSig.html", "structsecp256k1_1_1FrostPartialSig" ],
+      [ "FrostShare", "structsecp256k1_1_1FrostShare.html", "structsecp256k1_1_1FrostShare" ],
+      [ "JacobianPointData", "structsecp256k1_1_1JacobianPointData.html", "structsecp256k1_1_1JacobianPointData" ],
+      [ "MidFieldElementData", "structsecp256k1_1_1MidFieldElementData.html", "structsecp256k1_1_1MidFieldElementData" ],
+      [ "MuSig2AggNonce", "structsecp256k1_1_1MuSig2AggNonce.html", "structsecp256k1_1_1MuSig2AggNonce" ],
+      [ "MuSig2KeyAggCtx", "structsecp256k1_1_1MuSig2KeyAggCtx.html", "structsecp256k1_1_1MuSig2KeyAggCtx" ],
+      [ "MuSig2PubNonce", "structsecp256k1_1_1MuSig2PubNonce.html", "structsecp256k1_1_1MuSig2PubNonce" ],
+      [ "MuSig2SecNonce", "structsecp256k1_1_1MuSig2SecNonce.html", "structsecp256k1_1_1MuSig2SecNonce" ],
+      [ "MuSig2Session", "structsecp256k1_1_1MuSig2Session.html", "structsecp256k1_1_1MuSig2Session" ],
+      [ "Outpoint", "structsecp256k1_1_1Outpoint.html", "structsecp256k1_1_1Outpoint" ],
+      [ "PedersenCommitment", "structsecp256k1_1_1PedersenCommitment.html", "structsecp256k1_1_1PedersenCommitment" ],
+      [ "PrivateKey", "classsecp256k1_1_1PrivateKey.html", "classsecp256k1_1_1PrivateKey" ],
+      [ "RecoverableSignature", "structsecp256k1_1_1RecoverableSignature.html", "structsecp256k1_1_1RecoverableSignature" ],
+      [ "ScalarData", "structsecp256k1_1_1ScalarData.html", "structsecp256k1_1_1ScalarData" ],
+      [ "SchnorrAdaptorSig", "structsecp256k1_1_1SchnorrAdaptorSig.html", "structsecp256k1_1_1SchnorrAdaptorSig" ],
+      [ "SchnorrBatchCachedEntry", "structsecp256k1_1_1SchnorrBatchCachedEntry.html", "structsecp256k1_1_1SchnorrBatchCachedEntry" ],
+      [ "SchnorrBatchEntry", "structsecp256k1_1_1SchnorrBatchEntry.html", "structsecp256k1_1_1SchnorrBatchEntry" ],
+      [ "SchnorrKeypair", "structsecp256k1_1_1SchnorrKeypair.html", "structsecp256k1_1_1SchnorrKeypair" ],
+      [ "SchnorrSignature", "structsecp256k1_1_1SchnorrSignature.html", "structsecp256k1_1_1SchnorrSignature" ],
+      [ "SchnorrXonlyPubkey", "structsecp256k1_1_1SchnorrXonlyPubkey.html", "structsecp256k1_1_1SchnorrXonlyPubkey" ],
+      [ "SHA256", "classsecp256k1_1_1SHA256.html", "classsecp256k1_1_1SHA256" ],
+      [ "SHA512", "classsecp256k1_1_1SHA512.html", "classsecp256k1_1_1SHA512" ],
+      [ "SilentPaymentAddress", "structsecp256k1_1_1SilentPaymentAddress.html", "structsecp256k1_1_1SilentPaymentAddress" ],
+      [ "TapSighashTxData", "structsecp256k1_1_1TapSighashTxData.html", "structsecp256k1_1_1TapSighashTxData" ],
+      [ "TxInput", "structsecp256k1_1_1TxInput.html", "structsecp256k1_1_1TxInput" ],
+      [ "TxOut", "structsecp256k1_1_1TxOut.html", "structsecp256k1_1_1TxOut" ],
+      [ "TxOutput", "structsecp256k1_1_1TxOutput.html", "structsecp256k1_1_1TxOutput" ],
+      [ "WIFDecodeResult", "structsecp256k1_1_1WIFDecodeResult.html", "structsecp256k1_1_1WIFDecodeResult" ],
+      [ "WitnessProgram", "structsecp256k1_1_1WitnessProgram.html", "structsecp256k1_1_1WitnessProgram" ],
+      [ "WitnessTx", "structsecp256k1_1_1WitnessTx.html", "structsecp256k1_1_1WitnessTx" ]
+    ] ],
+    [ "ScopeExit", "structScopeExit.html", "structScopeExit" ],
+    [ "ScopeSecureErase", "structScopeSecureErase.html", "structScopeSecureErase" ],
+    [ "SecureEraseGuard", "classSecureEraseGuard.html", "classSecureEraseGuard" ],
+    [ "ufsecp_bip32_key", "structufsecp__bip32__key.html", "structufsecp__bip32__key" ],
+    [ "ufsecp_ctx", "structufsecp__ctx.html", "structufsecp__ctx" ],
+    [ "ufsecp_desc_key", "structufsecp__desc__key.html", "structufsecp__desc__key" ],
+    [ "ufsecp_ecdsa_snark_witness_t", "structufsecp__ecdsa__snark__witness__t.html", "structufsecp__ecdsa__snark__witness__t" ],
+    [ "ufsecp_ff_limbs_t", "structufsecp__ff__limbs__t.html", "structufsecp__ff__limbs__t" ],
+    [ "ufsecp_gpu_ctx", "structufsecp__gpu__ctx.html", "structufsecp__gpu__ctx" ],
+    [ "ufsecp_gpu_device_info_t", "structufsecp__gpu__device__info__t.html", "structufsecp__gpu__device__info__t" ],
+    [ "ufsecp_schnorr_snark_witness_t", "structufsecp__schnorr__snark__witness__t.html", "structufsecp__schnorr__snark__witness__t" ]
+];
